@@ -1,6 +1,6 @@
 # Just need to follow this readme to run all.
 
-## run server
+## run service - BE
 
 ```bash
 $ cd service
@@ -9,7 +9,7 @@ $ npm start
 ```
 Server will run at: http://localhost:3000/
 
-## run frontend-cliect and send request
+## run client and send request - FE
 
 ```bash
 $ cd cliect
